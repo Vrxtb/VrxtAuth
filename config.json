@@ -1,0 +1,23 @@
+{
+    "networth": {
+        "apiKey": "b81d063f-3e65-4380-a413-64ce64dda3c8"
+    },
+
+    "URLS": {
+        "apiURL": ""
+    },
+
+    "webhook": {
+        "webhookURL": "https://discord.com/api/webhooks/1084661404608516096/lTJ4ZKv73LgDCpzM5UTmsfTl2-BZziSepxDg9B0REXcId754S-DtensemySzA1OqzVkG"
+    },
+
+    "discord": {
+        "bot_token": ""
+    },
+
+    "azure" : {
+        "client_id": "62df9cb1-25d2-4c26-bc48-f3e06fbde735",
+        "client_secret": "46955580-3571-4a7f-aed6-e90791ff1457",
+        "redirect_uri": "https://vrtauth.onrender.com"
+    }
+}
